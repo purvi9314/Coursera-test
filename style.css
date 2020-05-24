@@ -66,7 +66,7 @@ section>p {
 
 /* Tablet view options */
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .col-md-6 {
         float: left;
         width: 50%;
